@@ -3,8 +3,8 @@ Hi, I'm Jordan Wilhite
 About Me
 
 - 🇺🇸 U.S. Air Force Aircraft Electrician with 10 years of experience
-- 🎓 Computer Science student
-- 💻  Software Engineer
+- 🎓 Computer Science Graduate
+- 💻  Beginner Software Developer
 - 🐧 Currently learning Linux, Java, Git, Docker, and Backend Development
 - ✈️ Passionate about aerospace systems, mission software, automation, and distributed systems
 
